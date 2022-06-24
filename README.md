@@ -16,7 +16,6 @@ I Spend most of time learning and also coding outstanding projects.
 - 🌱 I’m currently learning Data structures and Algorithms and also backend.
 - 🤔 I’m looking for Outstanding ideas.
 - ⚡ Fun fact: I play games and go gotta workout.
-- 😄 Pronouns: He/his. 
 - 💬 Ask me about.....anything, I am happy to help;
 </br>
 
@@ -47,12 +46,12 @@ I Spend most of time learning and also coding outstanding projects.
 
 #### Bizness
 - :paperclip: [My Resume](https://github.com/dharmapra2/dharmapra2/blob/master/resumes/resume_dharma.pdf)
-- :email: dharmapradhan73@gmail.com
+- :email: dharma.pradhan@nettantra.net
 
 
 #### Profile Visits 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=dharmapra2.dharmapra2)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=dharmapradhan2.dharmapradhan2)
 
 <details>
 <summary>
@@ -69,12 +68,12 @@ CoderOne is a youtube channel for learning Web/Mobile development, coding and de
 
 #### Coding Stats
 
-![coading](https://github-readme-stats.vercel.app/api/top-langs/?username=dharmapra2)
+![coading](https://github-readme-stats.vercel.app/api/top-langs/?username=dharmapradhan2)
 
 
 #### Github Stats
 
-![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=dharmapra2&count_private=true&theme=tokyonight&hide=contribs,prs)
+![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=dharmapradhan2&count_private=true&theme=tokyonight&hide=contribs,prs)
 
 </details>
 
